@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Conexion comercial](https://conexcrm.com/)
 
-- 💬 Ask me about **Angular, Laravel, css-preprocesor, adonisJs, next js**
+- 💬 Ask me about **Angular with ionic and capacitor, Laravel, css-preprocesor, Adonis, next js**
 
 - 📫 How to reach me **luciano.web17@gmail.com**
 
