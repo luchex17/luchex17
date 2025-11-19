@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchex17&label=Profile%20views&color=0e75b6&style=flat" alt="luchex17" /> </p>
 
-- 🔭 I’m currently working on [Conexion comercial](https://conexcrm.com/)
-
 - 💬 Ask me about **Angular with ionic and capacitor, Laravel, css-preprocesor, Adonis, next js**
 
 - 📫 How to reach me **luciano.web17@gmail.com**
